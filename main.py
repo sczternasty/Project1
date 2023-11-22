@@ -17,7 +17,11 @@ for element in data:
     partial_data["Furnished"] = element.select('.tile-furnished')[0].getText().strip().split(" ")[0]
     partial_data["Availability_start_date"]= element.select('.tile-availability')[0].getText().strip().split(" ")[0]
     partial_data["Availability_end_date"] = element.select('.tile-availability')[0].getText().strip().split(" ")[1].split("\n")[-1]
+    partial_data["URL"] = element.find('a').get('href')
     tab.append(partial_data)
 
 df = pd.DataFrame(tab)
+pd.options.display.max_columns = 10
+pd.options.display.max_rows = 27
+pd.options.display.max_colwidth = 100
 print(df)
