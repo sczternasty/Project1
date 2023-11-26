@@ -36,4 +36,4 @@ def web_scrape(url):
 
     return df
 result_1 = web_scrape('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=')
-result_1.to_csv('df')
+result_1.to_csv('df', index=False)
