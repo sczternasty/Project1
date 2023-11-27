@@ -1,8 +1,10 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-def web_scrape(url):
-    res = requests.get(url)
+
+
+def web_scrape(file_path):
+    res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=')
     soup = BeautifulSoup(res.text, 'html.parser')
     pages = soup.find_all('li', class_='waves-effect')[-2].getText()
     tab = []
@@ -33,7 +35,7 @@ def web_scrape(url):
     pd.options.display.max_columns = 10
     pd.options.display.max_rows = 27
     pd.options.display.max_colwidth = 100
-
+    df.to_csv(file_path, index=False)
     return df
-result_1 = web_scrape('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=')
-result_1.to_csv('df', index=False)
+
+
