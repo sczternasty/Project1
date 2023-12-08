@@ -29,10 +29,7 @@ if __name__ == '__main__':
                         upper = int(input('Enter upper-bound'))
                         lower = int(input('Enter lower-bound'))
                         print(df[(df['Price'] > lower) & (df['Price'] < upper)])
-                    if option == '2':
-                    if option == '3':
-                    if option == '4':
-                    if option == '5':
+
                     if option == '6':
                         break
 
