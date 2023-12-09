@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 def web_scrape(file_path):
     res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=')
     soup = BeautifulSoup(res.text, 'html.parser')
-    pages = soup.find_all('li', class_='waves-effect')[-2].getText()
+    pages = soup.find_all('ul', class_='MuiPagination-ul mui-style-nhb8h9')[0].getText().split('…')[-1]
     tab = []
     for i in range(1, int(pages)+1):
         if i == 1:
