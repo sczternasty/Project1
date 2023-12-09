@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 def web_scrape(file_path):
-    res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=')
+    res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=0&searchview=1')
     soup = BeautifulSoup(res.text, 'html.parser')
     pages = soup.find_all('ul', class_='MuiPagination-ul mui-style-nhb8h9')[0].getText().split('…')[-1]
     tab = []
@@ -12,7 +12,7 @@ def web_scrape(file_path):
         if i == 1:
             pass
         else:
-            res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?pageno=' + str(i))
+            res = requests.get('https://kamernet.nl/en/for-rent/rooms-amsterdam?radius=5&minSize=&maxRent=0&searchview=1&typeAndCity=rooms-amsterdam&pageNo=' + str(i))
             soup = BeautifulSoup(res.text, 'html.parser')
         data = soup.select('.tile-data')
 
@@ -32,9 +32,7 @@ def web_scrape(file_path):
         print(f"Collecting data {i}/{pages}" )
 
     df = pd.DataFrame(tab)
-    pd.options.display.max_columns = 10
-    pd.options.display.max_rows = 27
-    pd.options.display.max_colwidth = 100
+    print(df)
     df.to_csv(file_path, index=False)
     return df
 
