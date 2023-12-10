@@ -6,7 +6,7 @@ import pandas as pd
 if __name__ == '__main__':
     print('Welcome to real estate aggregator')
     options = {'1': 'Update data', '2': 'Present data','3': 'Exit'}
-    options_restrict = {'1': 'Price range', '2': 'Type', '3': 'Surface range', '4': 'Furnished', '5': 'Availability', '6': 'Exit'}
+    options_restrict = {'1': 'Price range', '2': 'Type', '3': 'Surface range', '4': 'Furnished', '5': 'Exit'}
     while True:
         print(options)
         user_input = input('Choose action: ')
@@ -26,9 +26,9 @@ if __name__ == '__main__':
                     print(options_restrict)
                     option = input('Choose option: ')
                     if option == '1':
-                        upper = int(input('Enter upper-bound: '))
-                        lower = int(input('Enter lower-bound: '))
-                        print(df[(df['Price'] > lower) & (df['Price'] < upper)])
+                        p_upper = int(input('Enter upper-bound: '))
+                        p_lower = int(input('Enter lower-bound: '))
+                        print(df[(df['Price'] > p_lower) & (df['Price'] < p_upper)])
                     if option == '2':
                         choose_type = input('Choose type (room, apartment, studio): ').lower()
                         if choose_type == 'room':
@@ -37,8 +37,17 @@ if __name__ == '__main__':
                             print(df[df['Type'] == 'Apartment'])
                         if choose_type == 'studio':
                             print(df[df['Type'] == 'Studio'])
-
-                    if option == '6':
+                    if option == '3':
+                        s_upper = int(input('Enter upper-bound: '))
+                        s_lower = int(input('Enter lower-bound: '))
+                        print(df[(df['Surface'] > s_lower) & (df['Surface'] < s_upper)])
+                    if option == '4':
+                        choose_furnished = (input('Furnished (Y/N): ')).capitalize()
+                        if choose_furnished == 'Y':
+                            print(df[(df['Furnished'] == 'furnished')])
+                        if choose_furnished == 'N':
+                            print(df[(df['Furnished'] == 'uncarpeted')])
+                    if option == '5':
                         break
 
         if user_input == '3':
