@@ -20,15 +20,23 @@ if __name__ == '__main__':
             pd.options.display.max_rows = 27
             pd.options.display.max_colwidth = 100
             print(df)
-            restrict = input('Would you like to restrict search (Y/N): ')
+            restrict = (input('Would you like to restrict search (Y/N): ')).capitalize()
             if restrict == 'Y':
                 while True:
                     print(options_restrict)
                     option = input('Choose option: ')
                     if option == '1':
-                        upper = int(input('Enter upper-bound'))
-                        lower = int(input('Enter lower-bound'))
+                        upper = int(input('Enter upper-bound: '))
+                        lower = int(input('Enter lower-bound: '))
                         print(df[(df['Price'] > lower) & (df['Price'] < upper)])
+                    if option == '2':
+                        choose_type = input('Choose type (room, apartment, studio): ').lower()
+                        if choose_type == 'room':
+                            print(df[df['Type'] == 'Room'])
+                        if choose_type == 'apartment':
+                            print(df[df['Type'] == 'Apartment'])
+                        if choose_type == 'studio':
+                            print(df[df['Type'] == 'Studio'])
 
                     if option == '6':
                         break
