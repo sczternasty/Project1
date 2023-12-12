@@ -1,0 +1,541 @@
+Title,Location,Price,Utilities_included,Surface,Furnished,Type,Availability_date,URL
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
+Roomtuintjes,Amsterdam,1650,False,100,furnished,Apartment,15 Jan - 15 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Roomtuintjes/apartment-2188517
+Botterstraat,Amsterdam,700,True,6,furnished,Room,From 10 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Botterstraat/room-2188509
+Ambonplein,Amsterdam,1050,True,12,furnished,Room,13 Dec 2023 - 10 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ambonplein/room-2188485
+Wielingenstraat,Amsterdam,795,True,16,furnished,Room,From 29 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Wielingenstraat/room-2188470
+Postjeskade,Amsterdam,785,True,10,furnished,Room,15 Dec 2023 - 1 Aug 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjeskade/room-2188466
+Veluwelaan,Amsterdam,1775,False,70,furnished,Apartment,14 Jan - 1 Apr 2024,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Veluwelaan/apartment-2188443
+De Clercqstraat,Amsterdam,1000,True,6,uncarpeted,Roomin a studenthouse,10 Dec 2023 - 29 Feb 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/De Clercqstraat/room-2188440
+Maassluisstraat,Amsterdam,1300,True,45,furnished,Apartment,22 - 22 Dec 2023,https://kamernet.nl/en/for-rent/apartment-Amsterdam/Maassluisstraat/apartment-2185871
+Cleopatralaan,Amstelveen,1375,False,46,furnished,Apartment,9 Dec 2023 - 30 Nov 2025,https://kamernet.nl/en/for-rent/apartment-Amstelveen/Cleopatralaan/apartment-2188391
+Scherpenzeelstraat,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Scherpenzeelstraat/room-2188386
+Westergracht,Haarlem,650,True,6,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Haarlem/Westergracht/room-2188379
+Postjesweg,Amsterdam,1700,True,60,furnished,Room,1 Feb - 10 Mar 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Postjesweg/room-2188378
+Teding van Berkhoutstraat,Haarlem,775,True,18,uncarpeted,Room,14 Dec 2023 - 14 Dec 2024,https://kamernet.nl/en/for-rent/room-Haarlem/Teding van Berkhoutstraat/room-2188366
+Gouden Leeuw,Amsterdam,800,True,10,furnished,Room,From 9 Dec 2023,https://kamernet.nl/en/for-rent/room-Amsterdam/Gouden Leeuw/room-2188377
+Blikveldweg,Almere,650,True,20,furnished,Studio,From 21 Dec 2023,https://kamernet.nl/en/for-rent/studio-Almere/Blikveldweg/studio-2188353
+Blasiusstraat,Amsterdam,470,True,6,furnished,Room,9 Dec 2023 - 30 Jun 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Blasiusstraat/room-2188351
+Monnikskapstraat,Amsterdam,1450,False,50,furnished,Studio,1 Dec 2023 - 1 Dec 2025,https://kamernet.nl/en/for-rent/studio-Amsterdam/Monnikskapstraat/studio-2184787
+Ceramplein,Amsterdam,1500,True,15,furnished,Room,27 Nov 2023 - 31 Oct 2024,https://kamernet.nl/en/for-rent/room-Amsterdam/Ceramplein/room-2184800
